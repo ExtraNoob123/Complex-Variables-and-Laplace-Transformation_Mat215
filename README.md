@@ -1,2 +1,2 @@
 # Math215 Labs
-# Summer 2022
+ Summer 2022
